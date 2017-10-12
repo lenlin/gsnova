@@ -1,0 +1,9 @@
+Deploy Gsnova-Server to Docker (OpenShift)
+
+Gsnova-Server Ver 0.28.0
+
+OpenShift
+
+Secure Route: wss://[host]-[project].starter-us-west-1.openshiftapps.com
+
+TLS Settings Termination type:edge
